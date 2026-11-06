@@ -1,5 +1,8 @@
 # transcript-segmenter
 
+[![CI](https://github.com/klimenkod406/transcript-segmenter/actions/workflows/ci.yml/badge.svg)](https://github.com/klimenkod406/transcript-segmenter/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Group a flat ASR transcript into **logical paragraphs** — silence gaps, speaker
 changes and sentence boundaries — with correct spacing for Latin and CJK text.
 
